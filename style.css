@@ -3,3 +3,12 @@ html, body
   height: 100%;
   width: 100%;
 }
+h1
+{
+  font-family: Georgia;
+  font-style: italic;
+}
+p
+{
+  font-family: times new roman;
+}
