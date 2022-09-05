@@ -88,12 +88,15 @@ dd
 
 ul
 {
-  box-shadow: 10px 5px 5px black;
+  box-shadow: 10px 10px 8px #000000;
+  width: 160px;
+  margin-left: 45%;
+  border: 2px solid #c3bee9;
+  background-color: #9e97d3;
   font-size: 15pt;
   list-style-type: circle;
 }
 ul li
 {
   color: black;
-  margin-left: 45%;
 }
