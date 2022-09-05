@@ -14,7 +14,7 @@ p
   font-family: cursive;
   text-align: center;
 }
-ul
+ol
 {
   text-align: center;
 }
@@ -29,12 +29,22 @@ table
   table-layout: fixed;
   border-collapse: collapse;
   border: 2px solid black;
-  margin-left: auto;
+  margin-left: 15%;
   margin-right: auto;
 }
 th
 {
   border: 1px solid black;
+}
+dt
+{
+  font-family: Times New Roman;
+  font-size: 20px;
+}
+dd
+{
+  font-family: comic sans MS;
+  font-size: 10px;
 }
 
 .sidenav 
@@ -45,12 +55,12 @@ th
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #fdcedc;
+  background-color: #242426;
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
   border: 3px solid blue;
-  border-color: #df6288;
+  border-color: #0f0f10;
   border-radius: 8px;
 }
 
@@ -60,7 +70,7 @@ th
   text-decoration: none;
   font-family: Comic sans MS;
   font-size: 25px;
-  color: #000000;
+  color: #ffffff;
   display: block;
   transition: 0.3s;
 }
@@ -74,4 +84,16 @@ th
 {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
+}
+
+ul
+{
+  box-shadow: 10px 5px 5px black;
+  font-size: 15pt;
+  list-style-type: circle;
+}
+ul li
+{
+  color: black;
+  margin-left: 45%;
 }
