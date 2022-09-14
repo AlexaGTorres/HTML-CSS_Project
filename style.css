@@ -101,14 +101,15 @@ ul li
 }
 p1
 {
-  margin-left: 300px;
+  margin-left: 490px;
+}
+p2
+{
+  margin-left: 450px;
 }
 h2
 {
-  margin-left: 300px;
+  padding-top: 15px;
+  text-align: center;
   text-size-adjust: 50px;
-}
-img
-{
-  border: 3px solid white;
 }
