@@ -99,17 +99,13 @@ ul li
 {
   color: black;
 }
-p1
-{
-  margin-left: 490px;
-}
-p2
-{
-  margin-left: 450px;
-}
 h2
 {
   padding-top: 15px;
   text-align: center;
   text-size-adjust: 50px;
+}
+pre
+{
+  text-align: center;
 }
