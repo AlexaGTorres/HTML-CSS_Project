@@ -2,7 +2,7 @@
 Name: CatPedia\
 Class: Advanced Java Topics\
 Date Started: September 1, 2022\
-Description: A website dedicated to cats. Many different kinds of cats with a special little cat you can learn about.\
+Description: A website dedicated to cats. Many different kinds of cats with a special little cat you can learn about for Hispanic Heritage month.\
 \
 Assignment Requirements Below:\
 -Hyperlinks to all other pages.\
